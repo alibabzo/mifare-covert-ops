@@ -6,7 +6,7 @@ import csv                # import lib to add line to table
 
 GPIO.setmode(GPIO.BCM)    # tell the GPIO lib what pin naming we are using
 
-GPIO.setup(18, GPIO_IN, pull_up_down=GPIO.PUD_UP) # setup pin 18 as input with built-in pull up resistor
+GPIO.setup(18, GPIO.IN, pull_up_down=GPIO.PUD_UP) # setup pin 18 as input with built-in pull up resistor
 
 c = csv.writer(open('uid.csv','a')) # open our csv file in append mode
 
