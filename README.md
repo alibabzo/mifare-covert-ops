@@ -1,4 +1,4 @@
-# nfc-emulation
+# mifare-covert-ops
 Python code for covert-ish RFID capturing (and later emulation) on a Raspberry Pi.
 Or at least that's what I'm using it for.
 
