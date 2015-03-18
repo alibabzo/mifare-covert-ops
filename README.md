@@ -7,3 +7,8 @@ Or at least that's what I'm using it for.
 * [libnfc](http://nfc-tools.org/index.php?title=Libnfc)
 * An ACR122U reader or similar
 * Python 2.7
+
+### How to use
+* Activate the script (`sudo python capture.py`)
+* Press the button when you think your reader is over a card
+* The script saves the UID of that card to a file
