@@ -1,5 +1,5 @@
 # mifare-covert-ops
-Python code for covert-ish RFID capturing (and later emulation) on a Raspberry Pi.
+Python code for covert-ish RFID capturing (and later emulation*) on a Raspberry Pi.
 Or at least that's what I'm using it for.
 
 ### You will need:
@@ -12,3 +12,5 @@ Or at least that's what I'm using it for.
 * Activate the script with `sudo python capture.py`
 * Press the button when you think your reader is over a card
 * The script saves the UID of that card to a file
+
+\* I'm not entirely sure if emulation is possible with this setup after testing. Will be buying a UID changeable Mifare card as I think this will work better.
