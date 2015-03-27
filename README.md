@@ -13,4 +13,4 @@ Or at least that's what I'm using it for.
 * Press the button when you think your reader is over a card
 * The script saves the UID of that card to a file
 
-\* I'm not entirely sure if emulation is possible with this setup after testing. Will be buying a UID changeable Mifare card as I think this will work better.
+\* I'm not entirely sure if emulation is possible with this setup (I tested it and no luck). Will be buying a UID changeable Mifare card as I think this will work better.
